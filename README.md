@@ -42,7 +42,7 @@ No external dependencies needed — it uses Python's standard library!
 Run the scanner:
 
 ```bash
-python port_scanner.py
+python scanner.py
 ```
 
 Then enter the target and port range when prompted:
