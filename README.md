@@ -29,8 +29,8 @@ A fast, multithreaded **port scanner** built in Python with **banner grabbing** 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/python-port-scanner.git
-cd python-port-scanner
+git clone https://github.com/n3zuk0x0/Python-Port-Scanner.git
+cd Python-Port-Scanner
 ```
 
 No external dependencies needed — it uses Python's standard library!
